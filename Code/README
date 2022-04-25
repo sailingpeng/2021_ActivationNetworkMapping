@@ -1,2 +1,2 @@
 1.	The code was developed and tested in MATLAB version 2017b and Python 3.7. Here we provide the code necessary to conduct Activation Network Mapping (ANM) analysis as well as produce other key results of the article.
-2.	The following toolboxes need to be installed and added to the search path of MATLAB and Python: SnPM13: http://warwick.ac.uk/snpm; VLSM: https://aphasialab.org/vlsm/; Neurosynth: https://github.com/neurosynth/neurosynth; LEAD-DBS: www.lead-dbs.org.
+2.	The following toolboxes need to be installed and added to the search path of MATLAB or Python: SnPM13: http://warwick.ac.uk/snpm; VLSM: https://aphasialab.org/vlsm/; Neurosynth: https://github.com/neurosynth/neurosynth; LEAD-DBS: www.lead-dbs.org.
