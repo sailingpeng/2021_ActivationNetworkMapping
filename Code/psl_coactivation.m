@@ -1,5 +1,5 @@
 function psl_coactivation(seed,prefix,r,output_dir)
-
+% dataset_psl.pkl is the same as dataset.pkl that can be downloaded by following steps in this code: https://github.com/neurosynth/neurosynth/blob/master/examples/neurosynth_demo.py
 if ~exist('r','var') || isempty(r)
     r = 6;
 end
