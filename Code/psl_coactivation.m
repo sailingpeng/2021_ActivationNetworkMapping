@@ -3,7 +3,7 @@ if ~exist('r','var') || isempty(r)
     r = 6;
 end
 if ~ischar(seed)
-    seed = ['[[',num2str(aa(1)),', ',num2str(aa(2)),', ',num2str(aa(3)),']]'];
+    seed = ['[[',num2str(seed(1)),', ',num2str(seed(2)),', ',num2str(seed(3)),']]'];
 end
 str1 = ['import sys; from neurosynth.analysis import network; ',...
     'sys.path.append(''/data/disk2/pengshaoling/code/python'');',...
